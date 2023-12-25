@@ -9,35 +9,7 @@ Multi-Turn Conversations: Maintains the context of ongoing interactions, allowin
 User-Friendly Interface: Built with Gradio, the application offers an intuitive and accessible user interface.
 24/7 Availability: Hosted on a reliable cloud platform, ensuring constant availability for users to access anytime.
 Feedback Mechanism: Users can provide feedback on responses, contributing to the continuous improvement of the chatbot.
-How to Run the Application
 
-#Prerequisites
-
-Python 3.8 or higher
-Access to OpenAI API (GPT-3.5 model)
-Installation
-Clone the Repository
-bash
-Copy code
-git clone https://github.com/yourusername/datascience-chatbot.git
-cd datascience-chatbot
-Set Up a Virtual Environment (Optional)
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-Install Dependencies
-Copy code
-pip install -r requirements.txt
-Run the Application
-Copy code
-python app.py
-Access the Application
-The application will be running at http://localhost:7860
-Configuration
-Set your OpenAI API key as an environment variable:
-arduino
-export OPENAI_API_KEY='your-api-key'
 
 #Contributing
 
