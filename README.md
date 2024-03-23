@@ -33,7 +33,6 @@ Check out our [Contribution Guidelines](CONTRIBUTING.md) for more detailed instr
 
 - OpenAI for the GPT-3.5 model.
 - Gradio for the user-friendly interface toolkit.
-- The vibrant data science community for their relentless pursuit of knowledge.
 
 ## License
 
