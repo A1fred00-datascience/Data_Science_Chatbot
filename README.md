@@ -37,7 +37,3 @@ Check out our [Contribution Guidelines](CONTRIBUTING.md) for more detailed instr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-
----
-We are profoundly grateful to everyone who has contributed to making the Data Science Assistant Chatbot a valuable resource for the data science community. A special mention to Will Ahmed and the WHOOP team for inspiring us with their mission to unlock human performance. Their innovative approach to health monitoring and performance optimization echoes in the principles of this project.
-
